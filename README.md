@@ -1,4 +1,4 @@
-# Metodos-Numericos
+# Métodos-Numéricos
 
 ___Nicolás Diosa - Ingeniería de Sistemas y Computación___
 
